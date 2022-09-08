@@ -1,0 +1,35 @@
+.header {
+    height: 220px;
+    display: flex;
+    align-items: center;
+}
+
+.dsmeta-logo-container {
+    color:var(--white);    
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+}
+
+.dsmeta-logo-container a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.dsmeta-logo-container img {
+    width: 235px;
+    margin: 28px 0 0 0;
+}
+
+.dsmeta-logo-container h1 {
+    margin: 15px 0 0 0;
+    font-size: 24px;
+}
+
+.dsmeta-logo-container p {
+    font-size: 14px;
+    margin: 0 0 28px 0;
+    font-weight: 300;
+}

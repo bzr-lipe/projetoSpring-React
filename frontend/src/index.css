@@ -24,3 +24,14 @@ body, html {
     background-color: var(--black);
     color: var(--white);
 }
+
+#sales {
+    background-color: var(--black);
+    padding: 40px 10px;
+}
+
+.dsmeta-container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}
